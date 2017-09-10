@@ -1,0 +1,28 @@
+
+\begin{figure}[H]
+ \begin{minipage}{0.5\hsize}
+  \begin{center}
+   \includegraphics[width=60mm]{hy32.pdf}
+   \caption{3-2への遷移}
+  \end{center}
+ \end{minipage}
+ \begin{minipage}{0.5\hsize}
+  \begin{center}
+   \includegraphics[width=60mm]{hy42.pdf}
+   \caption{4-2への遷移}
+  \end{center}
+ \end{minipage}
+ \begin{minipage}{0.5\hsize}
+  \begin{center}
+   \includegraphics[width=60mm]{hy52.pdf}
+   \caption{5-2への遷移}
+  \end{center}
+ \end{minipage}
+ \begin{minipage}{0.5\hsize}
+  \begin{center}
+   \includegraphics[width=60mm]{hy62.pdf}
+   \caption{6-2への遷移}
+  \end{center}
+ \end{minipage}
+\end{figure}
+

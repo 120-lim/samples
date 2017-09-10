@@ -1,0 +1,32 @@
+
+  \begin{table}[H] 
+  \begin{center} 
+  \caption {マーカーの測定結果}  
+  \begin{tabular}{|l|l|} 
+    \hline 
+    ベース数 & 移動距離(cm) \\ 
+    \hline \hline 
+    500 & $2.9\pm0.1$ \\ 
+    \hline 
+    1000 & 2.45$\pm$0.05\\ 
+    \hline 
+    1500 & 2.2$\pm$0.05\\ 
+    \hline 
+    2000 & 2$\pm$0.05\\ 
+    \hline 
+    2500 & 1.85$\pm$0.05\\ 
+    \hline
+    3000 & 1.75$\pm$0.05\\
+    \hline
+    3500 & 1.67$\pm$0.05\\
+    \hline
+    4000 & 1.6$\pm$0.05\\
+   \hline
+    4500 & 1.53$\pm$0.03\\
+    \hline
+    5000 & 1.47$\pm$0.03\\
+    \hline  
+  \end{tabular} 
+  \end{center} 
+  \end{table} 
+
