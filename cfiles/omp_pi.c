@@ -10,7 +10,7 @@ int main(void){
  double x,pi,sum=0.0,step;
  step = 1.0 / (double) num_steps;
  
-#pragma omp parallel for reduction(+:sum)
+#pragma omp parallel for reduction(+:sum) private(x)
 /* private は2重ループで使える*/
 
  for(i = 1;i <= num_steps; i++){
