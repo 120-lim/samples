@@ -1,0 +1,2 @@
+コンパイルは gcc -fopenmp でする
+export OMP_NUM_THREADS=16 によって並列スレッド数の指定ができる。
