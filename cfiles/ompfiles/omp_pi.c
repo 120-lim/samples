@@ -4,8 +4,8 @@
 #define num_steps 1000000000
 
 int main(void){
-    clock_t t1, t2;
- t1 = time(NULL);
+    double /*clock_t*/ t1, t2;
+ t1 =(double) time(NULL);
  int i;
  double x,pi,sum=0.0,step;
  step = 1.0 / (double) num_steps;
@@ -21,7 +21,7 @@ int main(void){
  pi = step * sum;
  printf("%f\n",pi);
 
- t2 = time(NULL);
+ t2 = (double) time(NULL);
     printf("%f\n", (double)(t2 - t1));
  return(0);
 }
